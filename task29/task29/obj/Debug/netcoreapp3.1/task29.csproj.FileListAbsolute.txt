@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.exe
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.deps.json
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.runtimeconfig.json
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.runtimeconfig.dev.json
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.dll
+C:\Users\acer\source\repos\task29\task29\bin\Debug\netcoreapp3.1\task29.pdb
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.AssemblyInfo.cs
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.dll
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.pdb
+C:\Users\acer\source\repos\task29\task29\obj\Debug\netcoreapp3.1\task29.genruntimeconfig.cache
